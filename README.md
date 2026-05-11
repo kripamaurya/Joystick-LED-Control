@@ -1,2 +1,35 @@
-# Joystick-LED-Control
-🎮 Joystick LED Control using Arduino  This project uses a joystick module to control 4 LEDs. Each LED turns ON according to joystick direction: ⬅️ Left, ➡️ Right, ⬆️ Up, ⬇️ Down.  Perfect beginner Arduino project for learning joystick interfacing, analog input, and LED control.
+# 🎮 Joystick LED Control using Arduino
+
+This project controls 4 LEDs using a joystick module and Arduino UNO.
+
+## 🚀 Features
+- ⬅️ Left movement → Left LED ON
+- ➡️ Right movement → Right LED ON
+- ⬆️ Up movement → Up LED ON
+- ⬇️ Down movement → Down LED ON
+
+---
+
+## 🛠 Components Used
+- Arduino UNO
+- Joystick Module
+- 4 LEDs
+- Resistors
+- Breadboard
+- Jumper Wires
+
+---
+
+## 📸 Project Image
+![Project Image](Joystick-LED-Control.jpeg)
+
+---
+
+## 🎥 Demo Video
+[Watch Demo Video](https://your-video-link.com)
+
+---
+
+## 💻 Arduino Code
+```cpp
+// Your Arduino code here
