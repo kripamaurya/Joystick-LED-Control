@@ -24,9 +24,9 @@ This project controls 4 LEDs using a joystick module and Arduino UNO.
 ![Project Image](Joystick-LED-Control.jpeg)
 
 ---
-
 ## 🎥 Demo Video
-[Watch Demo Video](https://your-video-link.com)
+
+[![Watch Demo](https://img.youtube.com/vi/eAskB3tHsts/maxresdefault.jpg)](https://www.youtube.com/shorts/eAskB3tHsts)
 
 ---
 
